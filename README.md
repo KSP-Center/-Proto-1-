@@ -33,6 +33,7 @@ Before we get started, we need to figure out what software you use. There are 2 
 that VEX programmers use to code:
 - Visual Studio Code
 - VEXcode V5 (or VEXcode Pro V5)
+
 If you dont have any of the softwares installed, go ahead and install Visual Studio Code
 (VS Code for short). I dont recommend getting VEXcode V5 because VS Code allows more felxibility
 in what your coding and how the program is setup. Once you have VS Code installed, continue to
